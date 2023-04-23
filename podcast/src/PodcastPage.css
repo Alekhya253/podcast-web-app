@@ -1,0 +1,28 @@
+div{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+    list-style-type: none;
+    border-style: solid;
+    padding: 4px;;
+    border-width: 1.5px;
+    background-color: rgb(217, 221, 180);
+    border-color: rgb(247, 247, 247);
+    border-radius: 8%;
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+}
+button{
+    background-color: rgb(27, 127, 103);
+    border: 0;
+    padding: 5px;
+    border-radius: 8px;
+    width: 100px;
+    color: rgb(217, 221, 180);
+    height: 40px;
+}
+.desc{
+    background-color:'rgb(192, 196, 156)';
+     padding : '2px'!important;
+     border-radius:'8px';
+}
